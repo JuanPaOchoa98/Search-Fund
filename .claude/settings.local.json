@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pip install:*)",
+      "Bash(where python:*)",
+      "Bash(python3 -m pip install pypdf pdfplumber pandas numpy matplotlib openpyxl jupyter nbformat)",
+      "Bash(python3 -c \":*)",
+      "Bash(python3 -m pip install scipy)"
+    ]
+  }
+}
