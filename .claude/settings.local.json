@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -m jupyter nbconvert --to html \"c:/Users/juanp/OneDrive/Documentos/GitHub/Search-Fund/.claude/worktrees/distracted-antonelli/analisis_innova_mex.ipynb\" --output \"c:/Users/juanp/OneDrive/Documentos/GitHub/Search-Fund/analisis_innova_mex.html\")",
+      "Bash(python -m jupyter nbconvert --to html --execute \"c:/Users/juanp/OneDrive/Documentos/GitHub/Search-Fund/.claude/worktrees/distracted-antonelli/analisis_innova_mex.ipynb\" --output \"c:/Users/juanp/OneDrive/Documentos/GitHub/Search-Fund/analisis_innova_mex.html\")"
+    ]
+  }
+}
